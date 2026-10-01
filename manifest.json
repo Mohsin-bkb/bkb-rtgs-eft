@@ -1,0 +1,16 @@
+{
+  "name": "BKB RTGS EFT Form",
+  "short_name": "BKB RTGS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a5c2b",
+  "description": "Bangladesh Krishi Bank RTGS and EFT Instruction Form",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
